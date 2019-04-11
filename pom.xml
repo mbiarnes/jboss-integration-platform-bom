@@ -156,7 +156,7 @@
     <version.io.takari.maven.plugins>2.8.0</version.io.takari.maven.plugins>
     <version.io.undertow>2.0.15.Final</version.io.undertow>
     <version.javax.activation>1.1.1</version.javax.activation>
-    <version.javax.enterprise>1.2</version.javax.enterprise>
+    <version.javax.enterprise>2.0.SP1</version.javax.enterprise>
     <version.javax.inject>1</version.javax.inject>
     <version.javax.jcr>2.0</version.javax.jcr>
     <version.javax.mail>1.4.5</version.javax.mail>
